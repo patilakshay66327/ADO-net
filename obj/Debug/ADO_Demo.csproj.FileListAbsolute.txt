@@ -1,0 +1,15 @@
+C:\Users\OWNER\source\repos\ADO_Demo\ADO_Demo\bin\Debug\ADO_Demo.exe.config
+C:\Users\OWNER\source\repos\ADO_Demo\ADO_Demo\bin\Debug\ADO_Demo.exe
+C:\Users\OWNER\source\repos\ADO_Demo\ADO_Demo\bin\Debug\ADO_Demo.pdb
+C:\Users\OWNER\source\repos\ADO_Demo\ADO_Demo\obj\Debug\ADO_Demo.csprojAssemblyReference.cache
+C:\Users\OWNER\source\repos\ADO_Demo\ADO_Demo\obj\Debug\MainWindow.g.cs
+C:\Users\OWNER\source\repos\ADO_Demo\ADO_Demo\obj\Debug\App.g.cs
+C:\Users\OWNER\source\repos\ADO_Demo\ADO_Demo\obj\Debug\ADO_Demo_MarkupCompile.cache
+C:\Users\OWNER\source\repos\ADO_Demo\ADO_Demo\obj\Debug\ADO_Demo_MarkupCompile.lref
+C:\Users\OWNER\source\repos\ADO_Demo\ADO_Demo\obj\Debug\MainWindow.baml
+C:\Users\OWNER\source\repos\ADO_Demo\ADO_Demo\obj\Debug\ADO_Demo.g.resources
+C:\Users\OWNER\source\repos\ADO_Demo\ADO_Demo\obj\Debug\ADO_Demo.Properties.Resources.resources
+C:\Users\OWNER\source\repos\ADO_Demo\ADO_Demo\obj\Debug\ADO_Demo.csproj.GenerateResource.cache
+C:\Users\OWNER\source\repos\ADO_Demo\ADO_Demo\obj\Debug\ADO_Demo.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\source\repos\ADO_Demo\ADO_Demo\obj\Debug\ADO_Demo.exe
+C:\Users\OWNER\source\repos\ADO_Demo\ADO_Demo\obj\Debug\ADO_Demo.pdb
